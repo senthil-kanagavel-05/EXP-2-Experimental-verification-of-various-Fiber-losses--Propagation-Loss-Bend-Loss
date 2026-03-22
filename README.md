@@ -1,4 +1,3 @@
-# EXPERIMENT-2-OPTICAL-COMMUNICATION
 ## 🔍 EX.NO: 2 – Verification of Fiber Losses
 
 **Aim:**  
@@ -81,15 +80,14 @@ MEASUREMENT OF BENDING LOSSES:
 
 ### Propagation Loss
 
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|---------------------|------------------------|
-|              |                     |                        |
+<img width="1148" height="1556" alt="image" src="https://github.com/user-attachments/assets/1fee0fd0-1766-4c32-8e52-764fe74b6a33" />
+
 
 ### Bending Loss
 
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|---------------------|------------------------|
-|                  |                     |                        |
+<img width="1067" height="1600" alt="image" src="https://github.com/user-attachments/assets/d0d6ee30-37ba-4b24-9384-5f3ee8cfaeeb" />
+
+
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
